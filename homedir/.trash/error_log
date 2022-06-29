@@ -1,0 +1,16 @@
+[27-Mar-2022 17:55:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewusers.php on line 22
+[27-Mar-2022 17:55:08 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewusers.php on line 27
+[27-Mar-2022 17:55:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewusers.php on line 22
+[27-Mar-2022 17:55:55 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewusers.php on line 27
+[27-Mar-2022 17:58:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewcourses.php on line 20
+[27-Mar-2022 17:58:01 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewcourses.php on line 25
+[27-Mar-2022 18:01:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewcourses.php on line 20
+[27-Mar-2022 18:01:05 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewcourses.php on line 25
+[27-Mar-2022 18:01:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewholds.php on line 20
+[27-Mar-2022 18:01:22 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewholds.php on line 25
+[27-Mar-2022 18:05:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewusers.php on line 22
+[27-Mar-2022 18:05:25 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewusers.php on line 27
+[27-Mar-2022 18:12:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewusers.php on line 22
+[27-Mar-2022 18:12:08 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewusers.php on line 27
+[27-Mar-2022 18:12:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'quantify.cy8rwonvm5qr.us-east-1.rds.amazonaws.com' (110) in /home/olufmdppx6pn/public_html/viewholds.php on line 20
+[27-Mar-2022 18:12:20 UTC] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/olufmdppx6pn/public_html/viewholds.php on line 25

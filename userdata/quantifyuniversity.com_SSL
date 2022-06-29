@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/olufmdppx6pn/public_html
+group: olufmdppx6pn
+hascgi: 1
+homedir: /home/olufmdppx6pn
+ip: 72.167.69.26
+ipv6: ~
+owner: gdresell
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@quantifyuniversity.com
+serveralias: mail.quantifyuniversity.com www.quantifyuniversity.com
+servername: quantifyuniversity.com
+ssl: 1
+usecanonicalname: 'Off'
+user: olufmdppx6pn
+userdirprotect: ''

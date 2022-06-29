@@ -1,0 +1,134 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:linear-gradient(rgba(4,9,30,0),rgba(4,9,30,0)),url(images/Uni.jpg);
+	background-color: whitesmoke;
+	position: static;
+	height:  15vh;
+	background-size:  cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/*CONTAINER */
+
+.container{
+   width: 75%;
+   margin: 7%;
+   margin-bottom: 100px;
+
+}
+
+.container h2{
+   color: #000000;
+   text-align: center;
+   position:  relative;
+   top:  10px;
+   margin: 7px;
+   font-size: 40px;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+
+}
+.container h2::before, .container h2::after{
+   content: "-----";
+   letter-spacing: -5px;
+   font-weight: lighter;
+   margin: 0 20px 0 10px;
+
+}
+
+
+.container h3{
+   color: #000000;
+   text-align: left;
+   position:  relative;
+   margin: 5px;
+   font-size: 25px;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+   width: 350px;
+
+}
+
+.container h4{
+   color: #000000;
+   text-align: left;
+   position:  relative;
+   margin: 5px;
+   padding-left: 23vw;
+   font-size: 25px;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+
+}
+
+.container h5{
+   color: #000000;
+   text-align: left;
+   position:  relative;
+   margin: 5px;
+   padding-left: 38vw;
+   font-size: 25px;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+
+}
+
+.container h6{
+   color: #000000;
+   text-align: left;
+   position:  relative;
+   margin: 5px;
+   padding-left: 58vw;
+   font-size: 25px;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+
+}
+
+.container .row {
+    color: #000000;
+	position: relative;
+	top:  10px;
+  	display: flex;
+    justify-content: space-between;
+    width: 1400px;
+}
+
+.container .column{
+   width: 25%;
+   height: auto;
+   overflow: hidden;
+   position:  relative;
+   background-color: whitesmoke;
+   text-align: center;
+  
+}
+
+.container .column img{
+   width: 300px;
+   height: 300px;
+}
+
+.container .column a:last-child{
+   position: absolute;
+   display: block;
+   width: 100%;
+   height: 0;
+   top: 150%;
+   bottom: 0;
+   left: 0;
+   background-color: #964B00;
+   text-align: center;
+   padding-top: 2vw;
+   font-size: 3vw;
+   color: #000000;
+   text-decoration: none;
+}
+
+
+

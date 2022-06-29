@@ -1,0 +1,1009 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /home/olufmdppx6pn/tmp/awstats/awstats.quantifyuniversity.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2705                
+POS_VISITOR 19864               
+POS_DAY 28614               
+POS_DOMAIN 3579                
+POS_LOGIN 4093                
+POS_ROBOT 4248                
+POS_WORMS 4817                
+POS_EMAILSENDER 4948                
+POS_EMAILRECEIVER 5091                
+POS_SESSION 29480               
+POS_SIDER 29693               
+POS_FILETYPES 5226                
+POS_DOWNLOADS 5397                
+POS_OS 5445                
+POS_BROWSER 5780                
+POS_SCREENSIZE 8077                
+POS_UNKNOWNREFERER 8151                
+POS_UNKNOWNREFERERBROWSER 8452                
+POS_ORIGIN 8572                
+POS_SEREFERRALS 8714                
+POS_PAGEREFS 8879                
+POS_SEARCHWORDS 9084                
+POS_KEYWORDS 9236                
+POS_MISC 2369                
+POS_ERRORS 9295                
+POS_CLUSTER 3949                
+POS_SIDER_404 9426                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220501000658 614 155944 8923136611288
+FirstTime 20220401005108
+LastTime 20220430222711
+LastUpdate 20220501052019 614 0 613 0 0
+TotalVisits 387                 
+TotalUnique 211                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 230                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 21 1261758 0 4 38445
+1 14 14 35688 55 60 84434
+2 2 9 1105162 5 10 9187
+3 34 69 8909850 43 70 6693094
+4 11 20 2016313 29 33 85455
+5 23 62 3945708 39 59 46925
+6 42 99 3217127 48 86 109190
+7 32 91 23719830 52 73 10190
+8 203 299 6671747 83 186 19516
+9 299 444 31261784 44 242 44070
+10 312 391 7740735 88 316 26256
+11 318 390 14939505 43 373 35038
+12 370 467 22701308 142 441 114431
+13 330 443 25861437 94 199 3267067
+14 528 633 22210320 112 365 49477
+15 728 941 102004884 171 664 92476
+16 773 928 61084011 212 710 44436
+17 369 461 15949573 78 366 46652
+18 243 339 34615629 67 204 131263
+19 115 161 14172587 38 90 1881042
+20 131 189 9218345 100 139 1698650
+21 59 75 1473520 45 65 6062
+22 79 102 2806646 150 199 12683
+23 75 105 3822485 53 108 12286
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 4891 6436 383531294
+cn 107 204 35724735
+gb 36 36 116695
+kr 12 12 5112
+se 10 10 21048
+ru 8 9 85901
+jp 7 7 2889
+de 5 5 14891
+at 4 4 13484
+nl 4 4 8277
+au 3 3 8142
+ba 2 2 4286
+ro 2 3 16071
+gr 2 2 1700
+ar 1 1 0
+cl 1 8 1104136
+ca 1 1 1026
+mx 1 1 0
+vn 1 1 0
+bd 1 1 1026
+np 0 1 75247
+my 0 1 9329
+md 0 1 663
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Applebot/ 64 466298 20220430070731 0
+Googlebot/ 38 41830 20220422093107 0
+bingbot/ 11 17981 20220426135203 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 4318 20220429204826 0
+no_user_agent 3 10114 20220426101915 0
+bot[\s_+:,\.\;\/\\-] 3 3078 20220418215713 0
+curl 3 9006 20220430124657 0
+Googlebot\-Image/ 2 28820 20220429220445 0
+AhrefsBot/ 2 1700 20220422042232 0
+Discordbot/ 1 3371 20220419193839 0
+facebookexternalhit/ 1 1026 20220410153822 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 393 379775 0 0
+png 1084 18792536 0 0
+html 669 1015686 0 0
+jpg 177 111983010 0 0
+php 4430 288574945 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win8.1 19 16
+win95 1 1
+win7 20 20
+macosx12 2 2
+win8 3 3
+ios_ipad 1 1
+winlong 1 1
+winxp 6 5
+macosx11 1 1
+winnt 10 10
+win10 6391 4927
+Unknown 25 18
+win2000 1 1
+ios_iphone 68 23
+winvista 3 3
+macosx8 1 1
+macosx9 1 1
+linux 95 32
+linuxandroid 73 16
+macosx10 1 1
+macosx 30 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 103
+chrome70.0.3538.77 1 1
+chrome95.0.4638.54 1 1
+chrome70.0.3798.88 1 1
+chrome79.0.3945.79 8 1
+chrome80.0.3987.149 3 3
+chrome73.0.2714.88 1 1
+chrome30.0.1599.17 1 1
+chrome71.0.3347.88 1 1
+firefox54.0 2 2
+chrome78.0.3971.88 1 1
+chrome72.0.3626.119 171 74
+chrome99.0.4844.51 98 79
+safari10.0 4 4
+chrome72.0.1548.88 1 1
+chrome100.0.4896.127 934 759
+chrome72.0.3647.88 1 1
+firefox49.0 1 1
+chrome83.0.4103.106 45 36
+chrome41.0.2228.0 1 1
+chrome73.0.3283.88 1 1
+firefox51.0 2 2
+chrome41.0.2226.0 2 2
+chrome79.0 3 3
+chrome98.0.4758.102 24 5
+firefox55.0 1 1
+firefox53.0 1 1
+chrome100.0.4896.60 915 569
+chrome92.0.4515.166 8 1
+chrome71.0.3783.88 1 1
+chrome78.0.3904.108 54 54
+chrome79.0.3999.88 1 1
+chrome70.0.2684.88 1 1
+chrome72.0.1785.88 1 1
+chrome71.0.1477.88 1 1
+chrome72.0.2752.88 1 1
+chrome56.0.2924.87 6 1
+safari15.2 13 5
+chrome73.0.2212.88 1 1
+chrome73.0.3683.75 8 1
+safari6.0 1 1
+chrome83.0.4103.116 10 3
+chrome40.0.2214.115 1 1
+chrome99.0.4844.84 1495 1080
+chrome71.0.1533.88 1 1
+chrome79.0.3945.88 1 1
+chrome96.0.4664.55 6 2
+safari15.3 40 10
+chrome71.0.1599.88 1 1
+chrome63.0.3239.132 10 10
+mozilla 23 16
+chrome88.0.4240.193 21 21
+chrome78.0.3904.97 6 6
+chrome79.0.2601.88 1 1
+chrome79.0.1136.88 1 1
+safari 8 1
+chrome83.0.4103.61 2 2
+firefox59.0 1 1
+chrome19.0.1063.0 1 1
+chrome66.0.3359.181 1 1
+chrome91.0.4472.101 1 1
+chrome11.0.696.71 6 6
+chrome73.0.3683.86 12 12
+safari11.1.2 1 1
+chrome100.0.4896.88 1530 1333
+chrome45.0.2454.94 1 1
+chrome91.0.4472.114 9 9
+netscape2.02 1 1
+firefox73.0 1 1
+chrome89.0.4389.114 25 25
+chrome98.0.4758.101 20 3
+firefox33.0 1 1
+chrome88.0.4324.104 8 1
+chrome91.0.4472.124 1 1
+chrome76.0.3809.132 12 12
+msie10.0 1 1
+chrome73.0.2376.88 1 1
+chrome83.0.4103.97 17 17
+firefox95.0 3 3
+opera80.0.4170.63 19 3
+chrome74.0.3729.169 6 6
+chrome41.0.2272.89 1 1
+chrome97.0.4692.71 1 1
+firefox47.0 2 2
+firefox91.0 13 2
+chrome100.0.4896.79 8 1
+chrome95.0.4638.69 35 6
+chrome73.0.1871.88 1 1
+chrome91.0.4472.106 3 3
+chrome100.0.4896.75 984 834
+chrome65.0.3325.109 3 3
+chrome36.0.1985.125 1 1
+chrome79.0.1945.88 1 1
+Unknown 1 1
+chrome99.0.4844.74 2 1
+firefox11.0 1 0
+chrome100.0.4896.58 34 8
+msie6.0 1 1
+chrome96.0.4664.45 17 4
+netscape5.0 2 2
+safari15.0 11 1
+chrome75.0.2140.88 1 1
+chrome26.0.1410.65 1 1
+chrome67.0.3396.99 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_Firefox/33.0 20220428174756
+Mozilla/5.0 20220408020115
+python-requests/2.18.4 20220414140636
+Mozilla/5.0_(compatible;_ips-agent) 20220402123541
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220429090734
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.18.4 20220414140636
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 524 611
+From1 0 0
+From2 17 17
+From3 2 2
+From4 4556 6123
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://192.168.50.1:1000 1 1
+http://com.all-url.info 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 177 404406
+404 4533 0
+206 46 13530621
+500 62 35756
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 252
+/Site 1 -
+/website/wp-includes/wlwmanifest.xml 52 -
+/static/index/css/iindex.css 1 -
+/.vscode/sftp.json 1 -
+/oldsite 2 -
+/js/init.js 24 http://quantifyuniversity.com/log-in.php
+/admin.php 1 http://quantifyuniversity.com/
+/m 1 -
+/js/jqvmap/jquery.vmap.min.js 24 http://quantifyuniversity.com/log-in.php
+/wp1/wp-includes/wlwmanifest.xml 52 -
+/public/static/css/denglu.css 1 -
+/site.js 1 -
+/NEW 2 -
+/api/login/homepages 1 -
+/css/style.css 23 -
+/Adminviewbuildings.php 4 http://quantifyuniversity.com/AdminViewbuildings.php
+/AcademicCalander.php 2 http://quantifyuniversity.com/index.html
+/common.js 1 -
+/assets/yibao/Nweshebao/img/ga.png 1 -
+/major_info.php 1 http://quantifyuniversity.com/AdminMajors.php
+/Researcherviewbuildings.php 2 http://quantifyuniversity.com/ResearcherHomePage.php
+/site 2 -
+/h5/ 2 -
+/newApp/winMessTopQuery.php 1 -
+/ads.txt 5 -
+/Application/Buy/Static/js/if.js 1 -
+/AdminTimeSlot.php 1 http://quantifyuniversity.com/AdminAddTimeSlot.php
+http://quantifyuniversity.com:80/favicon.png 2 -
+/media/wp-includes/wlwmanifest.xml 34 -
+/admin/login 1 http://quantifyuniversity.com/
+/AdminViewbuildings.php 2 http://quantifyuniversity.com/AdminHomePage.php
+/shop/wp-includes/wlwmanifest.xml 51 -
+/TEST 2 -
+/AdminCourseCatalog.php 8 http://quantifyuniversity.com/AdminViewDepartments.php
+/js/functions.js 2509 http://quantifyuniversity.com/StudentHome.php
+/AdminHolds.php 2 http://quantifyuniversity.com/ViewUsers.php
+/adminhomepage.php 1 -
+/new 2 -
+/backup 2 -
+/apple-touch-icon-precomposed.png 1 -
+/api/ht/xy1 1 -
+/www 2 -
+/facultyfound.php 3 http://quantifyuniversity.com/SearchFaculty.php
+/favicon.png 14 -
+/bak 2 -
+/biz/server/config 1 -
+/css/jqvmap.css 8 http://quantifyuniversity.com/log-in.php
+/Test 2 -
+/js/Chart.js 24 http://quantifyuniversity.com/log-in.php
+/login.aspx 1 http://quantifyuniversity.com/
+/2016/wp-includes/wlwmanifest.xml 9 -
+/AdminEditRoom.php 1 http://quantifyuniversity.com/AdminViewbuildings.php
+/wordpress 2 -
+/AdminEditCourse.php 2 http://quantifyuniversity.com/AdminCourseOption.php
+/images/TestingUni1.jpg 3 http://quantifyuniversity.com/style4.css
+/AdminStudents.php 11 http://quantifyuniversity.com/SearchStudent.php
+/MasterSchdeule.php 8 http://quantifyuniversity.com/AdminHomePage.php
+/humans.txt 4 -
+/2021/wp-includes/wlwmanifest.xml 1 -
+/Public/css/hall.css 1 -
+/login.php 12 http://quantifyuniversity.com/
+/ViewMajors.php 56 -
+/main 2 -
+/img/geometric-cave.jpg 19 http://quantifyuniversity.com/log-in.php
+/UserUpdated.php 2 https://www.google.com/
+/Prerequisite.php 2 http://quantifyuniversity.com/StudentHome.php
+/Wp 2 -
+/sucai/zxkf.png 1 -
+/api/link/platform 1 -
+/MajorCourse.php 2 http://quantifyuniversity.com/viewMajors.php
+/static/index/3.png 1 -
+/wordpress/wp-includes/wlwmanifest.xml 54 -
+/2015/wp-includes/wlwmanifest.xml 9 -
+/2018 2 -
+/BACKUP 2 -
+/v1/getConfig 1 -
+/2021 2 -
+/wp-login.php 13 -
+/AdminAddMajor.php 1 http://quantifyuniversity.com/AdminMajors.php
+/index/fahuo.js 1 -
+/Facilities.php 8 http://quantifyuniversity.com/AdminHomePage.php
+/atom.xml 9 -
+/New 2 -
+/sitio 2 -
+/sito 2 -
+//robots.txt 4 -
+/mobile/login.html 1 -
+/Public/home/wap/css/qdgame.css 1 -
+/bc 2 -
+/AdminAddBuilding.php 1 http://quantifyuniversity.com/AdminViewbuildings.php
+/css/other.css 1 -
+/log-in.php 1 http://quantifyuniversity.com/index.html
+/AdminAddMinor.php 1 http://quantifyuniversity.com/AdminMinor.php
+/timeslotremoved.php 1 http://quantifyuniversity.com/AdminRemoveTimeSlot.php
+/SHOP 2 -
+/AdminEditCourseSection.php 1 http://quantifyuniversity.com/AdminMasterSchedule.php
+/news/wp-includes/wlwmanifest.xml 52 -
+/AdminCourseOption.php 3 http://quantifyuniversity.com/AdminHomePage.php
+/Advisors.php 5 http://quantifyuniversity.com/AdminHomePage.php
+/AdminSemester.php 7 http://quantifyuniversity.com/AdminHomePage.php
+/js/pups.js 1 -
+/Operations.php 10 http://quantifyuniversity.com/AdminHomePage.php
+/lanren/css/global.css 1 -
+/AdmincourseFound.php 13 http://quantifyuniversity.com/Academics.php
+/wp-admin/install.php 1 -
+/vendor/phpunit/phpunit/LICENSE 1 -
+/WWW 2 -
+/Public/Home/js/cls.js 1 -
+/WordPress 2 -
+/AdminCreateCourseSection.php 3 http://quantifyuniversity.com/AdminCourseOption.php
+/css/flag-icon-css/css/flag-icon.min.css 20 http://quantifyuniversity.com/log-in.php
+/AdminMasterSchdeule.php 6 http://quantifyuniversity.com/AdminHomePage.php
+/robots.txt 74 -
+/editstudent.php 2 http://quantifyuniversity.com/studentinfo.php
+/wp-includes/wlwmanifest.xml 52 -
+/Backup 2 -
+/Www 2 -
+/2017/wp-includes/wlwmanifest.xml 9 -
+/panel/log-in.php 1 http://quantifyuniversity.com/log-in.php
+/AdminDeleteMinor.php 1 http://quantifyuniversity.com/AdminMinor.php
+//.well-known/security.txt 4 -
+/Css/Hm.css 1 -
+/2020 2 -
+/Master%20Schedule.php 3 http://quantifyuniversity.com/ViewUsers.php
+/masterscheule.php 1 -
+/public/_ignition/health-check/ 1 -
+/AdminTimeSlots.php 5 http://quantifyuniversity.com/AdminHomePage.php
+/wp 2 -
+/js/Chart.Financial.js 24 http://quantifyuniversity.com/log-in.php
+/CourseCatalog.php 5 http://quantifyuniversity.com/AddUser.php
+/css/admin-materialize.min.css 20 http://quantifyuniversity.com/log-in.php
+/Wordpress 2 -
+/index.php/sign 1 -
+/2019 2 -
+/js/jqvmap/jquery.vmap.sampledata.js 24 http://quantifyuniversity.com/log-in.php
+/test/wp-includes/wlwmanifest.xml 52 -
+/loan/css/index.css 1 -
+/admin/login.aspx 1 http://quantifyuniversity.com/
+/AdminCourseSection.php 3 http://quantifyuniversity.com/AdminCourseOption.php
+/AdminCourseFound.php 2 http://quantifyuniversity.com/Academics.php
+/CourseUpdated.php 1 http://quantifyuniversity.com/AdminEditCourseSelected.php
+/AdminEditMajor.php 3 http://quantifyuniversity.com/AdminMajors.php
+/kefu.php 1 -
+/userinfo.php 3 http://quantifyuniversity.com/usersfound.php
+/xy/ 1 -
+/api/lottery/color 1 -
+/mobile/static/js/config.js 1 -
+/sitemap.txt 8 -
+/css/materialize.css 7 http://quantifyuniversity.com/log-in.php
+/home/ 1 -
+/sitemaps.xml 9 -
+/useradded.php 1 http://quantifyuniversity.com/AddUser.php
+/_ignition/health-check/ 1 -
+/BuildingRoomHome.php 1 http://quantifyuniversity.com/ViewBuildingHome.php
+/sitemap.xml 12 -
+http://www.quantifyuniversity.com:80/favicon.png 2 -
+/AdminEditBuilding.php 1 http://quantifyuniversity.com/AdminViewbuildings.php
+/apple-touch-icon.png 1 -
+/AdminMasterSchedule.php 10 http://quantifyuniversity.com/editstudent.php
+/AdminCreateCourse.php 1 http://quantifyuniversity.com/AdminCourseOption.php
+/ResearcherStats.php 1 http://quantifyuniversity.com/ResearcherHomePage.php
+/viewusers.php 1 http://quantifyuniversity.com/userremoved.php
+/js/admin.js 24 http://quantifyuniversity.com/log-in.php
+/other/codepay/js/codepay_util.js 1 -
+/StudentBuildings.php 1 http://quantifyuniversity.com/StudentHome.php
+/sitemap_index.xml 10 -
+/demo 2 -
+/AdminDeleteDepartments.php 4 http://quantifyuniversity.com/AdminViewDepartments.php
+/AdminAddSemester.php 1 http://quantifyuniversity.com/AdminSemester.php
+/usersfound.php 2 http://quantifyuniversity.com/SearchUser.php
+/kkrps/im_group/show_members 1 -
+/js/base1.js 1 -
+/index/aurl 1 -
+/bk 2 -
+/shop 2 -
+/wap/ 1 -
+/jqvmap.css 22 http://quantifyuniversity.com/log-in.php
+/AdminEditMinor.php 2 http://quantifyuniversity.com/AdminMinor.php
+/portal/index/protocol.html 1 -
+/qoud13/xmlrpc.php 1 -
+/AcademicCalander.css 1 http://quantifyuniversity.com/Courses.php
+/old 2 -
+/admin/login.asp 1 http://quantifyuniversity.com/
+/style4.css 6 http://quantifyuniversity.com/Login.php
+/admin-materialize.min.css 9 http://quantifyuniversity.com/ResearcherStats.php
+/wp2/wp-includes/wlwmanifest.xml 52 -
+/sitemap.xml.gz 10 -
+/sito/wp-includes/wlwmanifest.xml 52 -
+/test 2 -
+/web/wp-includes/wlwmanifest.xml 52 -
+/xmlrpc.php 55 -
+/sdk.html 1 -
+/Shop 2 -
+/admin/login/ 1 http://quantifyuniversity.com/
+/2020/wp-includes/wlwmanifest.xml 17 -
+/cms/wp-includes/wlwmanifest.xml 54 -
+/administrator/index.php 1 -
+/courseFound.php 1 http://quantifyuniversity.com/Courses.php
+/Logout.php 8 http://quantifyuniversity.com/StudentHome.php
+/ajax 1 -
+/admin.html 1 http://quantifyuniversity.com/userremoved.php
+/WP 2 -
+/js/jqvmap/jquery.vmap.world.js 24 http://quantifyuniversity.com/log-in.php
+/registration.php 13 http://quantifyuniversity.com/StudentHome.php
+/js/materialize.min.js 24 http://quantifyuniversity.com/log-in.php
+/homes/ 1 -
+/WORDPRESS 2 -
+/OLD 2 -
+/StudentInfo.php 5 http://quantifyuniversity.com/StudentHome.php
+/laravel/_ignition/health-check/ 1 -
+/wp/wp-includes/wlwmanifest.xml 54 -
+/Users.php 2 http://quantifyuniversity.com/SearchUser.php
+/AdminAddDepartments.php 1 http://quantifyuniversity.com/AdminViewDepartments.php
+/AdminViewCourses.php 1 http://quantifyuniversity.com/AdminCourseOption.php
+/Old 2 -
+/js/imagesloaded.pkgd.min.js 24 http://quantifyuniversity.com/log-in.php
+/resources/main/common.js 1 -
+/static/home/css/common.css 1 -
+/style10.css 2 http://quantifyuniversity.com/
+/Academics.php 16 http://quantifyuniversity.com/AdminHomePage.php
+/img/login.png 1 -
+/wp-old 2 -
+/blog/wp-includes/wlwmanifest.xml 54 -
+/AdminAddCourseSection.php 3 http://quantifyuniversity.com/AdminAddCourseSection.php
+/AddUser.php 5 http://quantifyuniversity.com/ViewUsers.php
+/CoursePrerequisite.php 4 http://quantifyuniversity.com/Academics.php
+/admin/index.php 1 -
+/lib/public.js 1 -
+/admin/ 1 http://quantifyuniversity.com/
+/fePublicInfo/ 1 -
+/site/wp-includes/wlwmanifest.xml 54 -
+/bac 2 -
+/m/ticker/usdtqc 1 -
+/MajorUpdated.php 1 http://quantifyuniversity.com/AdminEditMajorSelected.php
+/AdminDeleteMajor.php 1 http://quantifyuniversity.com/AdminMajors.php
+/js/masonry.pkgd.min.js 24 http://quantifyuniversity.com/log-in.php
+/static/guide/ab.css 1 -
+/xy/image/jiantou.png 1 -
+/CurrentSchedule.php 2 http://quantifyuniversity.com/StudentHome.php
+/flag-icon.min.css 9 http://quantifyuniversity.com/ResearcherStats.php
+/feed/ 1 -
+/api/im/conf 1 -
+/zoushi 1 -
+//sitemap.xml 4 -
+/2019/wp-includes/wlwmanifest.xml 41 -
+/old-site 2 -
+/admin/login.php 1 http://quantifyuniversity.com/
+/AdminEditDepartments.php 6 http://quantifyuniversity.com/AdminViewDepartments.php
+/images/uni.jpg 33 http://quantifyuniversity.com/style7.css
+/2018/wp-includes/wlwmanifest.xml 34 -
+/EditUser.php 7 http://quantifyuniversity.com/ViewUsers.php
+/wp-admin/setup-config.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 230
+67.85.97.45 2450 2942 58539286 20220428170351
+24.186.15.19 1730 2088 140058799 20220430124752
+47.23.58.218 258 520 10837917 20220428094532
+162.83.252.18 112 182 49793390 20220425093112
+72.229.138.170 44 89 43975485 20220424143638
+123.60.83.110 22 22 22296 20220429062330
+69.175.57.232 19 34 118988 20220411105755
+128.199.198.204 15 15 50589 20220425150352
+54.227.32.154 15 90 2276405 20220421231858
+166.137.252.49 14 24 2032279 20220404082731
+149.56.150.96 12 12 211655 20220429090729
+54.237.250.240 12 12 12216 20220421231847
+111.7.100.23 10 23 2926282 20220427034406
+20.114.250.118 9 9 30402 20220405044425
+157.230.43.70 9 9 26553 20220405063007
+34.219.122.157 8 8 24548 20220403230822
+107.77.76.96 8 18 12156857 20220408092447
+172.58.229.92 8 18 7428716 20220406112511
+20.221.219.40 8 8 26976 20220427223944
+111.7.100.20 7 16 2840269 20220427033952
+111.7.100.26 7 12 2885662 20220427033932
+141.147.113.25 6 6 16917 20220414033921
+69.175.57.234 6 26 207237 20220403092801
+137.139.115.65 6 14 1116738 20220404091455
+111.7.100.21 6 14 2054616 20220427034354
+176.74.192.85 1 1 1026 20220415053100
+35.160.10.116 1 1 1805 20220412195054
+36.99.136.132 2 7 116111 20220406132215
+52.36.136.158 1 1 1025 20220424153823
+172.58.227.74 2 10 1105981 20220404081940
+36.99.136.130 1 3 1026872 20220403195359
+199.244.57.30 0 1 950606 
+18.237.147.13 1 1 1051 20220429155313
+65.154.226.220 2 9 1096578 20220401005112
+52.28.62.94 2 2 1026 20220414142155
+63.88.73.70 1 8 1104136 20220410153653
+65.21.206.43 1 1 1026 20220410185350
+66.102.8.140 0 1 38445 
+121.184.53.96 1 1 0 20220417200849
+167.172.86.173 3 3 10113 20220405160424
+183.106.27.8 1 1 1026 20220413135949
+188.166.245.87 3 3 8277 20220403141810
+139.59.225.119 3 3 8142 20220401194345
+52.37.196.252 1 1 1026 20220412152853
+172.58.85.31 1 4 896546 20220412154850
+209.131.254.133 1 1 1852 20220425085742
+192.36.71.133 1 1 1026 20220407095700
+110.11.134.228 1 1 0 20220420003022
+54.190.198.171 1 1 2330 20220412195054
+8.218.41.210 1 1 1026 20220406014419
+173.249.22.173 1 1 1026 20220406075918
+111.7.100.25 2 6 141868 20220427034259
+136.22.132.70 1 4 7477296 20220405161955
+185.51.23.56 1 1 1026 20220418073109
+54.187.122.227 1 1 1025 20220428152634
+20.226.51.161 3 3 10113 20220417143112
+125.128.112.242 1 1 0 20220405120123
+172.56.12.51 1 8 1104136 20220412154850
+20.25.65.63 2 2 2052 20220412102629
+8.218.94.10 1 1 1026 20220406073745
+1.55.131.51 1 1 0 20220409131629
+92.223.85.247 2 2 6742 20220405222408
+52.114.128.147 1 1 869 20220401085500
+52.33.212.23 1 1 1025 20220424154058
+66.102.9.237 1 3 85426 20220410153647
+111.217.52.62 1 1 0 20220404061825
+18.236.87.53 1 1 1026 20220412195051
+40.117.185.219 2 2 2052 20220418111728
+12.220.103.6 1 1 1019 20220404064732
+200.126.246.19 1 1 0 20220410110014
+185.181.60.189 1 1 1019 20220404000217
+36.99.136.141 3 3 5959637 20220427033803
+63.88.73.10 1 4 896546 20220412154831
+160.251.81.68 1 1 0 20220409160211
+201.145.167.170 1 1 0 20220421231841
+35.162.191.215 1 1 1051 20220429155340
+20.219.197.196 2 2 6742 20220412133022
+20.213.37.144 3 3 10113 20220418135127
+34.221.243.24 1 1 915 20220401151802
+51.159.97.170 1 1 1026 20220422203541
+208.80.194.41 1 1 3378 20220404004255
+36.99.136.139 5 8 22922 20220427033947
+72.13.46.6 3 3 3016 20220402123541
+3.12.163.176 1 8 1095866 20220402131052
+58.224.16.144 1 1 0 20220410101902
+149.19.238.4 0 1 24541 
+66.102.9.239 0 2 42724 
+59.6.87.73 1 1 0 20220421203518
+34.214.208.199 1 1 1025 20220427150441
+3.238.174.105 1 1 1026 20220413213008
+58.233.28.144 1 1 1026 20220408102316
+119.90.52.35 1 1 1019 20220404135217
+60.65.216.103 1 1 1026 20220408102312
+131.153.143.50 1 1 1026 20220413051933
+208.94.228.145 0 1 663 
+114.176.174.97 1 1 915 20220401152903
+146.70.29.180 2 2 6744 20220426220253
+65.21.206.45 1 1 1025 20220424102359
+20.53.249.177 3 3 10116 20220425205123
+181.215.93.110 1 8 1104136 20220408073539
+36.99.136.135 3 7 60687 20220406132222
+206.204.39.94 0 1 950606 
+36.99.136.133 2 2 3355 20220406132221
+206.204.58.16 0 1 4279 
+167.99.120.2 1 1 1026 20220406162958
+67.219.201.133 1 2 5018 20220425084511
+23.228.130.198 1 8 1104136 20220405161848
+219.100.37.236 1 1 948 20220403051028
+54.187.92.197 1 1 2214 20220412195054
+111.13.63.67 1 1 1053 20220430151418
+35.162.64.125 1 1 1025 20220427150404
+24.220.112.164 1 8 1104136 20220412154829
+180.149.19.60 1 1 1026 20220411073605
+54.245.140.20 1 1 5770 20220412195101
+8.218.85.203 1 1 933 20220402065304
+54.244.140.177 1 1 1025 20220424153354
+20.213.112.13 3 3 10116 20220427235830
+20.101.106.180 3 3 10134 20220404170612
+64.246.165.170 1 1 1026 20220414091934
+222.237.96.238 1 1 1015 20220405050653
+36.99.136.131 3 7 998544 20220406132216
+173.212.199.138 1 8 1104135 20220427110922
+210.95.56.209 1 1 0 20220413135937
+93.158.90.66 1 1 1026 20220423015112
+211.176.125.70 1 1 1026 20220419231750
+185.99.3.73 1 1 3371 20220406101300
+35.162.235.199 1 1 6099403 20220412195101
+66.42.60.163 3 3 10113 20220413154912
+58.33.94.133 1 1 1025 20220428091744
+52.41.31.212 1 1 1025 20220426161344
+185.181.60.12 2 2 2079 20220430222711
+152.32.132.135 3 3 3078 20220406172210
+172.58.229.212 3 12 1997583 20220424044114
+52.159.85.139 3 3 10113 20220410012120
+64.227.174.208 1 1 1026 20220422051114
+23.228.130.201 1 4 7477296 20220405161845
+54.190.53.87 1 1 1614 20220412195054
+146.70.29.179 2 2 6742 20220420083007
+206.204.28.210 0 1 38445 
+210.223.5.168 1 1 0 20220405050651
+111.7.100.24 4 15 2009066 20220427034304
+35.85.56.233 1 1 1180 20220412195101
+168.151.246.212 0 1 24541 
+36.99.136.134 0 3 975810 
+174.208.173.82 1 8 1104136 20220410153826
+93.114.136.221 0 1 9329 
+18.119.137.205 1 8 1104136 20220418023039
+20.65.79.204 3 3 10134 20220404072650
+137.139.118.113 3 3 4494 20220404081949
+36.99.136.143 0 1 950606 
+188.94.87.8 0 1 663 
+31.6.11.138 1 1 1026 20220421043923
+54.214.117.43 1 1 1025 20220424154739
+203.109.52.41 0 1 9329 
+143.215.193.196 1 2 5579 20220425084527
+180.57.62.195 1 1 0 20220413125419
+203.78.173.51 0 1 75247 
+149.108.103.233 1 1 0 20220409171531
+124.53.55.30 1 1 1019 20220404061858
+66.102.9.235 0 1 24541 
+67.227.32.143 1 1 1026 20220413085033
+51.104.39.111 3 3 10116 20220428161841
+120.35.11.210 1 1 1026 20220421161637
+20.86.182.221 2 2 6742 20220414223044
+46.4.33.48 1 1 3371 20220407181605
+66.244.74.68 1 5 91247 20220418171829
+51.142.140.150 3 3 10113 20220408204806
+72.36.125.228 1 4 7477296 20220405162110
+52.184.86.80 2 2 6744 20220427200238
+3.110.110.62 1 1 1026 20220419175028
+20.188.29.133 3 3 10113 20220419143255
+106.75.15.80 1 1 948 20220402170343
+206.204.4.19 0 1 4279 
+35.87.157.209 1 1 915 20220401151834
+20.231.206.155 3 3 10116 20220428084714
+111.7.100.27 5 12 1046393 20220427033941
+54.212.75.101 1 1 1025 20220426160942
+46.161.11.252 1 1 3371 20220416183226
+36.99.136.142 4 8 1917477 20220427033942
+131.153.240.10 1 1 1026 20220405213659
+18.222.27.51 1 8 1104136 20220407173158
+154.39.238.102 2 2 5518 20220403042232
+36.99.136.138 1 5 1903733 20220406132218
+36.99.136.140 5 8 5967896 20220406132222
+44.227.127.2 1 8 1104136 20220411053455
+185.240.252.37 0 1 75247 
+24.220.112.132 1 4 956904 20220405161842
+222.65.135.133 1 1 2759 20220403153937
+34.209.234.85 1 1 1026 20220424091147
+20.70.171.184 4 4 13485 20220427100831
+92.118.36.208 2 2 1700 20220419122536
+131.153.240.178 1 1 1026 20220415091835
+64.15.112.100 1 2 5175 20220425084343
+18.236.181.132 1 1 1026 20220412195057
+194.233.69.193 3 3 8142 20220402014456
+8.41.221.61 1 1 3372 20220428174756
+119.90.42.82 1 1 915 20220401082752
+95.177.174.212 2 2 6742 20220423171243
+46.101.63.152 1 1 0 20220419221257
+144.217.135.207 1 8 1104135 20220429090733
+20.214.185.135 2 2 6756 20220405075511
+92.223.85.198 2 2 6742 20220423132713
+20.111.42.161 1 1 3371 20220419010303
+20.211.32.176 3 3 10113 20220405203946
+47.243.195.40 1 1 1026 20220406014411
+206.189.146.90 6 6 20229 20220424141847
+172.105.130.137 1 1 1026 20220408020115
+18.219.38.239 1 8 1104136 20220412232006
+20.124.207.77 2 2 2038 20220404222145
+42.83.147.34 4 4 4103 20220424221040
+125.196.147.124 1 1 0 20220403051013
+64.53.1.69 1 2 4295 20220418171953
+35.181.51.66 1 1 0 20220412100236
+67.221.143.37 1 8 1104129 20220404080526
+52.36.91.50 1 1 1026 20220412152840
+34.209.149.139 1 1 1025 20220426155529
+132.198.200.196 1 8 1104136 20220410153649
+174.138.19.175 3 3 10116 20220425033358
+18.217.208.226 1 8 1104135 20220424100846
+185.48.172.70 1 1 915 20220401152902
+54.214.154.212 1 1 1025 20220428152912
+107.174.138.169 3 3 10113 20220419103237
+51.141.118.217 6 6 20226 20220409080907
+5.188.62.214 3 3 3159 20220430192626
+54.147.108.125 1 1 850 20220422010100
+92.204.175.88 1 1 3378 20220405055435
+192.71.42.108 1 1 1053 20220430213318
+168.151.165.201 0 1 38445 
+65.21.62.196 1 1 1025 20220424225048
+111.7.100.22 4 11 1881785 20220427034219
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20220401 74 142 5916242 17
+20220402 233 356 6274110 11
+20220403 592 874 30035392 32
+20220404 162 303 12327738 25
+20220405 336 467 113471761 26
+20220406 209 325 40259280 27
+20220407 484 561 11783139 8
+20220408 33 68 13618190 10
+20220409 303 330 3158303 12
+20220410 199 260 7355888 13
+20220411 22 51 2328286 4
+20220412 159 233 47311438 26
+20220413 138 182 3626190 16
+20220414 176 201 7761488 8
+20220415 366 370 2369360 6
+20220416 98 111 358769 4
+20220417 102 117 2846918 7
+20220418 238 319 7967216 13
+20220419 255 290 5622984 15
+20220420 24 37 197488 7
+20220421 11 21 319951 9
+20220422 25 48 39517107 6
+20220423 9 9 25649 5
+20220424 282 328 18594947 16
+20220425 158 191 4126549 11
+20220426 33 54 83838 8
+20220427 61 118 12279937 21
+20220428 77 99 2632751 13
+20220429 73 97 3531503 6
+20220430 167 191 15043540 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 12
+0s-30s 285
+30s-2mn 14
+1h+ 27
+30mn-1h 20
+15mn-30mn 13
+2mn-5mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 97
+/ 635 997258 285 221
+/AdminHomePage.php 512 695884 6 13
+/ViewUsers.php 345 27388273 3 12
+/SearchUser.php 258 388079 1 0
+/Login.php 224 264611 16 20
+/AdminMasterSchedule.php 194 631725 3 6
+/AdminTimeSlots.php 152 1039722 3 2
+/AdminAddCourseSection.php 128 316214 2 2
+/AdminViewDepartments.php 124 269186 2 3
+/usersfound.php 121 1103059 1 4
+/AdminSemester.php 117 242246 0 2
+/SearchStudent.php 114 185374 0 1
+/AdminAddTimeSlot.php 109 225263 0 1
+/AddUser.php 109 140833 2 3
+/AdminMajors.php 103 277334 1 2
+/studentinfo.php 99 164220 1 5
+/AdminCourseOption.php 94 132069 0 0
+/userinfo.php 93 122335 0 2
+/Academics.php 86 500049 0 1
+/Courses.php 81 617220 8 9
+/AdminAddSemester.php 79 142169 0 0
+/studentsfound.php 71 169372 0 0
+/viewDeparments.php 71 120378 9 7
+/MasterScheule.php 61 251085075 7 10
+/AdminViewbuildings.php 56 106227 1 2
+/AdminMinorAddedSubmit.php 1 1296 0 0
+/BuildingRoomHome.php 3 4466 0 0
+/ViewBuildingHome.php 10 16336 0 0
+/Facultyhome.php 7 13486 0 0
+http://www.quantifyuniversity.com:80/ 8 4908 8 8
+/Admincoursefound.php 1 1451 0 0
+/AdminCreateCourse.php 8 16651 0 0
+/AdminEditCourseSelected.php 1 1875 0 0
+/AdminDeleteMajorSelected.php 1 1103 0 0
+/AdminHolds.php 37 73766 0 0
+/ResearcherStats.php 6 8117 0 0
+/AdminMajorCourse.php 19 31569 0 1
+/BuildingRoom.php 24 34247 0 1
+/HomePageMinor.php 42 94938 3 5
+/AdminRemoveTimeSlot.php 2 4568 0 1
+/AdminCourseSection.php 27 180976 0 0
+/AdminCourseFound.php 7 10111 0 0
+/AdminDeptMajor.php 21 29691 0 0
+/CourseUpdated.php 1 1535 0 0
+/SearchCourse.php 1 1056 0 0
+/UserAdded.php 20 20467 0 0
+/AdminEditMajor.php 4 10662 0 0
+/Adminviewbuildings.php 23 34879 0 0
+/AcademicCalander.php 54 103031 5 10
+/AdminAddHold.php 26 44390 0 0
+/AddUserCheck.php 33 43956 0 0
+/AdminEditCourse.php 1 6163 0 0
+/SearchFaculty.php 14 24202 0 0
+/DeptMajor.php 18 19681 0 0
+/RemoveUser.php 18 18379 0 0
+/UserUpdated.php 9 9379 0 0
+/MajorCourse.php 10 12950 0 0
+/AdminDeptCourse.php 9 15055 0 0
+/Majors.php 7 26540 0 0
+/SearchAllUsers.php 1 1073 0 0
+/StudentBuildings.php 10 26538 0 0
+/Minior.php 29 77189 1 2
+/forgotpassword.php 5 5419 0 0
+/viewMajors.php 50 108717 3 4
+/AdminAddDepartments.php 17 101527 0 0
+/AdminAddBuilding.php 24 41413 0 0
+/MasterSchedule.php 13 89174 1 2
+/AdminAddMinor.php 4 7844 0 0
+/log-in.php 22 31419 0 0
+/AdminEditCourseSection.php 49 120458 0 4
+/AdminViewCourses.php 19 128111 0 0
+/MajorFound.php 3 3925 0 0
+/userremoved.php 5 5002 0 0
+/AdminMinor.php 33 72642 0 0
+/AdminEditMajorSelected.php 1 1861 0 0
+/AdminDeleteMinorSelected.php 1 1103 0 0
+/CoursePrerequisite.php 24 25476 0 0
+/AdminMajorAddedSubmit.php 1 1382 0 0
+/courseFound.php 14 16740 0 0
+/CoursefoundStudents.php 1 2855 0 0
+/AdminAddMajor.php 9 18448 0 0
+/AdminCourseAddedSubmit.php 3 4144 0 0
+/ResearcherHomePage.php 34 37021 0 0
+/AdminCourseFoundd.php 13 0 0 0
+/SearchResearcher.php 3 5260 0 0
+/AdminDepartmentAddedSubmit.php 4 5851 0 0
+/DeptCourse.php 16 20692 0 1
+/CourseCatalog.php 15 108535 0 0
+http://quantifyuniversity.com:80/ 14 2982 14 14
+/EditUser.php 41 65406 0 2
+/StudentDeparment.php 10 30834 0 0
+/StudentHome.php 51 98238 0 3
+/Logout.html 12 10538 0 1
+/MajorUpdated.php 1 1534 0 0
+/editstudent.php 34 54979 1 0
+/AdminDeleteMajor.php 3 8018 0 0
+/AdminDeleteMinor.php 1 2228 0 0
+END_SIDER

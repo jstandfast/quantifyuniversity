@@ -1,0 +1,8 @@
+51.222.253.11 - - [28/Jun/2022:05:32:45 -0700] "GET /MajorCourse.php?id=D15 HTTP/2.0" 200 1102 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" 879
+17.121.112.11 - - [28/Jun/2022:09:04:40 -0700] "GET / HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)" 7
+17.121.115.156 - - [28/Jun/2022:09:15:17 -0700] "GET / HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)" 6
+51.222.253.17 - - [28/Jun/2022:11:42:40 -0700] "GET /AdminDeleteMajorSelected.php?MajorID=MA36 HTTP/2.0" 200 936 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" 898
+51.222.253.19 - - [28/Jun/2022:12:03:35 -0700] "GET /AdminEditMajorSelected.php?MajorID=MA54 HTTP/2.0" 200 1653 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" 891
+52.25.241.225 - - [28/Jun/2022:15:43:35 -0700] "GET / HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" 7
+18.236.242.173 - - [28/Jun/2022:15:44:05 -0700] "GET /favicon.ico HTTP/1.1" 404 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" 1
+18.236.242.173 - - [28/Jun/2022:15:44:07 -0700] "GET / HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" 7

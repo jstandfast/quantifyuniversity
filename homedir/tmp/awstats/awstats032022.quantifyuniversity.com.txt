@@ -1,0 +1,612 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202203 will be lost/reset.
+# Last config file used to build this data file was /home/olufmdppx6pn/tmp/awstats/awstats.quantifyuniversity.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2705                
+POS_VISITOR 11598               
+POS_DAY 15461               
+POS_DOMAIN 3430                
+POS_LOGIN 3892                
+POS_ROBOT 4047                
+POS_WORMS 4659                
+POS_EMAILSENDER 4790                
+POS_EMAILRECEIVER 4933                
+POS_SESSION 15654               
+POS_SIDER 15860               
+POS_FILETYPES 5068                
+POS_DOWNLOADS 5230                
+POS_OS 5278                
+POS_BROWSER 5511                
+POS_SCREENSIZE 7020                
+POS_UNKNOWNREFERER 7094                
+POS_UNKNOWNREFERERBROWSER 7472                
+POS_ORIGIN 7680                
+POS_SEREFERRALS 7818                
+POS_PAGEREFS 7981                
+POS_SEARCHWORDS 8129                
+POS_KEYWORDS 8281                
+POS_MISC 2369                
+POS_ERRORS 8340                
+POS_CLUSTER 3748                
+POS_SIDER_404 8444                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220401005108 345 89926 11819293019408
+FirstTime 20220327105021
+LastTime 20220331180344
+LastUpdate 20220401051607 345 0 344 0 0
+TotalVisits 101                 
+TotalUnique 82                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 108                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 48 86 1922538 7 35 21231
+1 63 76 4693494 1 5 5666
+2 3 3 1200 2 3 16350
+3 59 59 3450739 1 4 3398
+4 3 3 3468 2 6 4975
+5 10 10 8835 1 2 915
+6 58 58 3448833 2 6 5228
+7 7 35 4385132 2 5 3359
+8 7 26 5998097 1 8 1095833
+9 16 30 2270193 17 25 6927
+10 37 37 1155839 10 20 15422
+11 91 91 3841622 24 70 151242
+12 9 9 7276 0 11 18689
+13 75 88 4741050 0 19 25548
+14 10 21 105758 1 4 20072
+15 20 45 3461403 15 18 27807
+16 35 40 364739 7 24 30100
+17 83 160 2557204 10 13 41958
+18 32 40 993677 8 11 8055
+19 4 4 2430 47 49 40713
+20 5 19 2194411 2 4 0
+21 4 4 1200 1 7 81033
+22 2 2 1200 1 2 6547
+23 0 0 0 1 3 17095
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 398 630 21492393
+gb 251 251 14940206
+cn 15 41 7101058
+at 3 3 2430
+jp 2 2 915
+ru 2 4 991919
+in 1 1 915
+bg 1 1 0
+se 1 1 600
+es 1 1 915
+zz 1 1 0
+za 1 1 600
+np 1 1 915
+de 1 1 2268
+vn 1 1 0
+fr 1 1 915
+bd 0 1 9329
+au 0 2 113692
+ir 0 1 950606
+ro 0 1 662
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Applebot/ 16 221157 20220331233208 0
+bingbot/ 9 17449 20220331154730 0
+baidu 8 1095833 20220331081848 0
+Googlebot/ 8 4869 20220330072046 0
+spider 3 1577 20220329042738 0
+no_user_agent 3 5782 20220329194948 0
+Googlebot\-Image/ 2 54795 20220330112600 0
+link 2 1830 20220331095205 0
+curl 2 4536 20220331221636 0
+AhrefsBot/ 2 1490 20220329234617 0
+bingpreview 1 2345 20220331154603 0
+facebookexternalhit/ 1 600 20220327111339 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 2268 20220331015211 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 496 23127514 0 0
+jpg 21 19012120 0 0
+css 47 26550 0 0
+html 185 160822 0 0
+png 197 3283332 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+winnt 1 1
+win7 37 37
+bsdnetbsd 1 1
+macosx 7 4
+win8.1 8 8
+linux 31 17
+macosx11 3 3
+linuxandroid 26 8
+winxp 1 1
+macosx9 2 2
+ios_iphone 45 23
+win10 762 561
+Unknown 22 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 70
+firefox62.0 2 2
+safari11.1.1 2 2
+chrome76.0.3809.71 1 1
+chrome99.0.4844.84 319 173
+chrome20.0.1132.57 1 1
+firefox21.0 1 1
+edge12 168 168
+chrome56.0.2924.87 1 1
+chrome93.0.4577.0 8 1
+chrome32.0.1664.3 1 1
+firefox26.0 3 3
+chrome60.0.3112.90 8 8
+chrome72.0.3984.88 1 1
+safari11.1.2 1 1
+chrome21.0.1180.83 29 29
+chrome60.0.3112.113 1 1
+chrome81.0.4044.138 4 0
+safari 26 12
+chrome79.0.3945.88 55 55
+firefox53.0 1 1
+chrome65.0.3325.109 1 1
+chrome99.0.4844.82 109 79
+firefox52.0 3 3
+chrome35.0.1916.47 1 1
+chrome79.0.3945.79 2 2
+opera80.0.4170.63 2 1
+chrome96.0.4664.93 1 1
+chrome96.0.4664.55 3 0
+chrome11.0.696.71 2 2
+chrome80.0.3987.119 1 1
+firefox40.1 1 1
+chrome91.0.4472.77 8 1
+firefox50.0 1 1
+firefox54.0 1 1
+chrome45.0.2454.94 1 1
+chrome78.0.3904.97 1 1
+chrome83.0.4103.106 9 7
+android 1 1
+chrome63.0.3239.132 25 25
+safari15.2 16 8
+chrome84.0.4147.89 1 1
+chrome80.0.3987.149 3 3
+chrome83.0.4103.61 2 2
+chrome97.0.4692.99 4 1
+chrome75.0.3765.0 16 2
+chrome96.0.4664.45 2 0
+chrome98.0.4758.102 1 1
+mozilla 11 3
+chrome99.0.4844.73 2 2
+chrome95.0.4638.69 12 4
+safari10.0 2 2
+chrome97.0.4692.98 1 1
+chrome83.0.4103.116 1 1
+firefox55.0 1 1
+firefox33.0 1 1
+firefox89.0 1 1
+netscape5.0 6 6
+chrome19.0.1084.9 1 1
+chrome58.0.3029.110 1 1
+chrome71.0.2475.88 1 1
+chrome27.0.1453.116 1 1
+chrome91.0.4472.114 2 2
+chrome83.0.4103.97 3 3
+chrome74.0.3729.169 31 31
+safari15.0 1 1
+chrome90.0.4430.72 2 2
+chrome70.0.1928.88 1 1
+chrome87.0.4280.88 8 1
+firefox91.0 1 0
+Unknown 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Ruby 20220327160209
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220329090925
+Mozilla/5.0_Firefox/26.0 20220330110351
+Python/3.6_aiohttp/3.5.4 20220330055056
+Mozilla/5.0 20220330052955
+go-resty/2.6.0_(https://github.com/go-resty/resty) 20220329024236
+Mozilla/5.0_Firefox/33.0 20220330131513
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Ruby 20220327160209
+go-resty/2.6.0_(https://github.com/go-resty/resty) 20220329024236
+Python/3.6_aiohttp/3.5.4 20220330055056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 275 289
+From1 0 0
+From2 2 2
+From3 0 0
+From4 404 655
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 268 211379
+302 11 22253
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 111
+/im/App/config 1 -
+/WP 1 -
+/Old 1 -
+/api/getonLine 1 -
+/Shop 1 -
+/backup 1 -
+/2019 1 -
+/admin.html 5 http://quantifyuniversity.com/viewcourses.php
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/api/config-init 1 -
+/images/books.png 1 http://quantifyuniversity.com/
+/www 1 -
+/wp 1 -
+/oldsite 1 -
+/apple-touch-icon.png 1 -
+/sitemap.xml 1 -
+/blog 1 -
+/test 1 -
+/images/StudLog.png 5 http://quantifyuniversity.com/AdminHomePage.php
+/data/ticker_24hr 1 -
+/js/common.js 1 -
+/.env 1 -
+/viewmajors.php 2 -
+/images/Uni.jpg 2 http://quantifyuniversity.com/style1.css
+/viewusers.php 4 http://quantifyuniversity.com/
+/api/index/index 1 -
+/demo 1 -
+/WORDPRESS 1 -
+/api/link/platform 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/Test 1 -
+/CourseCatalog.php 3 http://quantifyuniversity.com/AdminHomePage.php
+/SHOP 1 -
+/courses.php 2 -
+/old 1 -
+/wp-admin/setup-config.php 4 -
+/wp-includes/wlwmanifest.xml 1 -
+/login.php 2 -
+/style.css 88 http://quantifyuniversity.com/viewcourses.php
+/quantifyuniversity.com 1 http://quantifyuniversity.com/AdminHomePage.php
+/robots.txt 29 -
+/kkrp/site/info 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/new 1 -
+/2021 1 -
+/images/Courses.png 1 http://quantifyuniversity.com/
+/css/index.css 1 -
+/wordpress 1 -
+/images/Departments.png 1 http://quantifyuniversity.com/
+/MasterSchdeule.php 2 http://quantifyuniversity.com/AdminHomePage.php
+/sito 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/New 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/images/BackToUsers.png 1 http://quantifyuniversity.com/AddUser.php
+/old-site 1 -
+/images/logo3.png 9 http://quantifyuniversity.com/
+/BLOG 1 -
+/bc 1 -
+/2018 1 -
+/WordPress 1 -
+/site 1 -
+/TEST 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/WWW 1 -
+/Advisors.php 3 http://quantifyuniversity.com/AdminHomePage.php
+/images/Majors.png 1 http://quantifyuniversity.com/
+/news/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/m/allticker/1 1 -
+/bk 1 -
+/Wp 1 -
+/favicon.png 2 -
+/Www 1 -
+/ads.txt 3 -
+/wp-admin/install.php 3 -
+/NEW 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-old 1 -
+/wp-login.php 1 -
+/viewdeparments.php 2 -
+/2020 1 -
+/xmlrpc.php 1 -
+/Site 1 -
+/main 1 -
+/BACKUP 1 -
+http://www.quantifyuniversity.com:80/favicon.png 3 -
+/humans.txt 1 -
+/major_info.php 1 http://quantifyuniversity.com/AdminMajors.php
+/Backup 1 -
+/shop 1 -
+/apple-touch-icon-precomposed.png 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/SITE 1 -
+/OLD 1 -
+/Blog 1 -
+/Wordpress 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-admin/setup-config.php 2 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/SearchUser.php 2 http://quantifyuniversity.com/ViewUsers.php
+/bac 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/api/im/conf 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/sitio 1 -
+/bak 1 -
+/masterscheule.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 108
+67.85.97.45 194 306 6728283 20220331180344
+51.195.90.229 141 141 8046619 20220328100301
+51.210.182.66 108 108 6892072 20220328135110
+24.186.15.19 62 119 3128340 20220330160425
+54.36.162.160 57 57 3449539 20220328014506
+162.83.252.18 9 9 112948 20220327111735
+149.56.150.144 9 9 72583 20220329090415
+221.2.155.200 6 6 5490 20220330052955
+172.58.227.41 4 12 1099390 20220329130423
+134.209.194.57 4 4 3660 20220331054350
+58.251.94.154 3 11 1097410 20220331083153
+80.120.129.210 3 3 2430 20220330110351
+167.71.231.227 3 3 3738 20220328115214
+54.227.32.154 3 13 289730 20220331132456
+123.60.83.110 3 3 1800 20220328083929
+205.169.39.191 2 2 1070 20220328130849
+15.204.142.133 2 2 1200 20220328070554
+151.106.120.184 2 2 2492 20220328130133
+20.124.207.77 2 2 1200 20220328221405
+205.169.39.192 2 2 1070 20220328130604
+147.192.233.166 1 1 0 20220329013959
+51.254.199.11 1 1 915 20220331080525
+18.234.56.235 1 1 1246 20220328173915
+164.68.96.236 1 1 915 20220330055056
+65.154.226.166 1 1 600 20220328130416
+3.214.21.251 1 1 915 20220329195854
+185.220.103.8 1 1 600 20220328072706
+54.189.230.128 1 1 600 20220328045353
+188.212.139.193 0 1 662 
+197.95.144.158 1 1 600 20220328213837
+162.43.234.127 0 1 75247 
+152.39.137.61 1 1 600 20220328074004
+168.151.172.101 0 1 9329 
+168.151.111.43 0 1 662 
+38.108.182.5 1 1 600 20220328144102
+93.158.90.69 1 1 600 20220328093406
+118.157.158.218 1 1 0 20220328213830
+185.246.172.142 0 1 950606 
+54.237.250.240 1 1 915 20220331132448
+216.99.127.198 1 1 573 20220329000343
+31.6.11.223 1 1 915 20220330205244
+167.71.235.30 1 1 915 20220331090129
+69.25.58.56 1 1 1246 20220328143118
+66.249.83.108 1 1 470 20220327111327
+35.86.140.106 1 1 2329 20220329163533
+52.40.39.192 1 1 1099 20220329163534
+3.95.250.194 1 8 1095833 20220329200956
+54.184.42.56 1 8 1095833 20220329202059
+171.13.14.45 0 1 75247 
+206.204.3.160 0 1 75247 
+35.86.141.38 1 1 600 20220328195530
+209.95.169.110 0 1 4279 
+34.213.152.137 1 1 1470 20220329163539
+173.249.24.73 1 1 600 20220328035307
+107.175.154.22 1 1 0 20220329194125
+54.200.122.127 1 1 4016 20220329163529
+171.13.14.20 1 2 1577 20220331091156
+104.244.83.198 1 1 915 20220329074137
+18.216.168.137 1 8 1095833 20220331075439
+192.153.71.147 0 1 16350 
+34.217.126.170 1 1 915 20220329163529
+153.229.195.111 1 1 915 20220329014000
+171.13.14.13 0 1 950606 
+171.13.14.75 0 2 113692 
+121.4.79.217 0 4 3802424 
+185.246.175.123 0 1 38445 
+66.56.90.116 0 1 662 
+149.56.150.62 1 8 1095833 20220329090924
+104.168.237.186 1 1 915 20220330193608
+44.198.158.205 1 1 600 20220328020343
+5.53.195.227 1 1 0 20220331132443
+46.4.33.48 1 1 2268 20220329090038
+168.151.138.72 0 1 4279 
+195.201.41.238 1 1 2268 20220329173605
+38.18.41.157 1 1 915 20220330121241
+150.129.93.77 0 1 75247 
+103.210.21.134 1 1 915 20220331093955
+152.39.254.97 1 1 915 20220330073319
+171.13.14.76 0 3 29958 
+168.151.116.249 0 1 16350 
+54.186.126.97 1 1 915 20220329200758
+45.40.165.149 1 1 600 20220327160209
+34.220.152.104 1 1 915 20220329200733
+134.209.146.89 1 1 600 20220328025435
+65.21.206.44 1 1 600 20220328162533
+42.83.147.43 1 1 2268 20220329041029
+171.13.14.84 1 7 1020586 20220331083347
+206.204.8.7 0 1 16350 
+94.176.94.142 0 1 950606 
+76.164.198.173 1 1 1246 20220328090958
+63.117.215.4 1 4 956428 20220329153644
+205.237.94.239 0 1 38445 
+139.64.43.226 1 1 0 20220328213835
+54.187.179.7 1 1 1233 20220329163537
+152.39.212.100 0 1 950606 
+206.204.52.217 0 1 4279 
+52.24.104.87 1 1 915 20220329163527
+88.1.143.217 1 1 915 20220331003201
+18.118.82.156 1 1 600 20220328130046
+51.89.227.251 1 1 600 20220328155734
+203.78.174.233 1 1 915 20220331075348
+119.12.178.96 0 1 38445 
+180.149.9.102 0 1 9329 
+136.22.132.68 1 1 600 20220327111328
+168.151.139.230 0 1 9329 
+171.255.197.27 1 1 0 20220329024236
+35.165.215.140 1 1 600 20220328045059
+8.41.221.52 1 1 2268 20220330131513
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20220327 55 55 445100 7
+20220328 351 351 18489038 38
+20220329 100 201 11034658 31
+20220330 42 71 2590688 11
+20220331 133 268 13050854 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+5mn-15mn 6
+1h+ 2
+15mn-30mn 1
+0s-30s 82
+30s-2mn 3
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/ 147 133371 87 70
+/AdminHomePage.php 59 43093 0 1
+/ViewUsers.php 56 3947577 0 1
+/viewusers.php 34 6117070 0 1
+/admin.html 32 25936 0 1
+/Login.php 27 31030 3 5
+/viewmajors.php 26 128036 0 2
+/viewcoursesections.php 25 11989776 0 1
+/AddUser.php 25 25497 0 1
+/viewdepartments.php 25 69898 0 0
+/viewsemesters.php 25 49968 0 0
+/viewtimeslots.php 25 52320 0 0
+/viewcourses.php 25 430522 0 0
+/viewholds.php 24 19590 0 0
+/viewminors.php 24 62016 0 1
+/viewbuildings.php 23 24181 0 0
+/removeuser.php 22 14152 1 6
+/adduser.php 21 19442 0 0
+/RemoveUser.php 6 5391 0 0
+/AdminMajors.php 5 10805 0 0
+http://www.quantifyuniversity.com:80/ 5 1515 5 5
+/SearchUser.php 3 2862 0 0
+/MasterScheule.php 3 27478 1 1
+/viewMajors.php 3 10515 1 1
+/Courses.php 3 34597 1 1
+http://quantifyuniversity.com:80/ 1 0 1 1
+/viewDeparments.php 2 5328 1 1
+/AdminViewDepartments.php 2 3056 0 0
+/Adminviewbuildings.php 2 1950 0 1
+/AdminMinor.php 1 1364 0 0
+END_SIDER

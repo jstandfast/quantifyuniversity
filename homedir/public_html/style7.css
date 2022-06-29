@@ -1,0 +1,9 @@
+body{
+	background-image:linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(images/uni.jpg);
+	background-color: whitesmoke;
+	position: static;
+	height:  25vh;
+	background-size:  100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
